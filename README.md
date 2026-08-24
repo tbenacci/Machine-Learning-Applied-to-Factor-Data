@@ -1,1 +1,1 @@
-File dump of some of the notebooks used to train ML models on the Jensen, Kelly, and Pedersen factor data, accompanied by portfolio and model performance notebooks. 
+File dump of some of the notebooks used to train ML models on the Jensen, Kelly, and Pedersen factor data, accompanied by portfolio and model performance notebooks. Models include ordinary least squares, penalized linear (Ridge and Lasso), and an array of different feedforward network architectures using scikit-learn and torch. 
